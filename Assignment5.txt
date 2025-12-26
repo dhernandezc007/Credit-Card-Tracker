@@ -1,0 +1,9 @@
+Alpine Visa, 3412.5, 21.25
+Amazon Mastercard, 265.32, 14
+American Express, 105, 11.65
+Chase Visa, 5795, 13.5
+Citibank Visa, -2.3, 18
+Discover Card, 153.25, 12.65
+Home Depot, -45.3, 14.3
+Kohls, 32.21, 13.66
+River Forest Mastercard, 250.65, 17
